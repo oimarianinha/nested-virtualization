@@ -33,3 +33,4 @@ Os seguintes conceitos foram aplicados durante o desenvolvimento desse projeto:
 - [x] Configuracao de LUN no TrueNAS com iSCSI
 - [ ] Migração da máquina virtual para a nuvem (GCP).
 
+
