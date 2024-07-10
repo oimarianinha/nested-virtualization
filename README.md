@@ -1,7 +1,7 @@
 # Nested Virtualization
 
 <p align="center">
-  <img alt="Proxmox" src="./img/image1.png>"
+  <img alt="Proxmox" src="./img/image1.png"
 </p>
 
 ## Conceitos aplicados
@@ -32,5 +32,3 @@ Os seguintes conceitos foram aplicados durante o desenvolvimento desse projeto:
 - [x] Configuração de disco para o storage
 - [x] Configuracao de LUN no TrueNAS com iSCSI
 - [ ] Migração da máquina virtual para a nuvem (GCP).
-
-
